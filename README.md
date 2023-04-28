@@ -1,4 +1,4 @@
-# randomNumberExportCSV
+# random Number Export as CSV
 Generate Random Maths Number and Export it in CSV format
 
 this will give the output as 1234 5678
